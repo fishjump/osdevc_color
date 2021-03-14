@@ -1,8 +1,7 @@
 #pragma once
 
+#include <color/entity.hpp>
 #include <std/stdcxx.hpp>
-
-#include "entity.hpp"
 
 namespace system::media::common_color
 {
